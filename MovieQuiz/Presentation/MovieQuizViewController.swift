@@ -16,7 +16,7 @@ final class MovieQuizViewController: UIViewController {
  Вопрос: Рейтинг этого фильма больше чем 6?
  Ответ: ДА
  
- 
+ ///da
  Картинка: The Dark Knight
  Настоящий рейтинг: 9
  Вопрос: Рейтинг этого фильма больше чем 6?
